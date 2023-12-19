@@ -24,11 +24,11 @@ To view the portfolio, simply open the index.html file in a web browser.
 Installation
 To run this locally:
 
-Clone this repository using git clone https://github.com/your-username/portfolio.git
+Clone this repository using git clone https://github.com/ajay/portfolioaj.git
 Navigate to the project directory
 Open index.html in your preferred web browser
 Credits
-This portfolio was created by [Your Name]. It utilizes:
+This portfolio was created by ajay. It utilizes:
 
 HTML
 CSS
